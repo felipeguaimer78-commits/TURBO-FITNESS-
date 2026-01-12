@@ -1,0 +1,9 @@
+{
+  "name": "TURBO FITNESS",
+  "description": "Elite Coaching: Corrida, Pedal, Musculação e Nutrição Dinâmica com análise de performance e postura.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
